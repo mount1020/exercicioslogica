@@ -1,0 +1,31 @@
+1.suco de laranja :
+
+1 passo pegue uma jarra com agua , uma laranja , um espremedor de frutas e açucar.
+2 passo corte a laranja e coloque ela no espremedor .
+3 passo pegue o suco e coloque na jarra com agua e adicione açucar e misture .
+
+2.calcular a média de duas notas :
+
+1 passo você soma cada uma da notas.
+2 passo você divide pelo total de notas.
+
+
+3.Converter celsius para fahrenheit:
+
+1 passo multiplicar graus celcius por 9 .
+2 passo dividir graus celcius por 5  e depois somar 32 .
+
+4.verificar se um número é par ou ímpar :
+
+1 passo informe o número.
+2 passo use modulo de 2.
+3 passo se ele tiver resto e impar se não tiver ele e par.
+
+5. calcular o fatorial de um número :
+
+1 passo
+
+
+
+
+
